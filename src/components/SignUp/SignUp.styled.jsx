@@ -47,7 +47,7 @@ const StyledButton = styled(Button)({
   borderRadius: '30px',
   fontSize: 16,
   textTransform: 'uppercase',
-  boxShadow: '0 0 20px rgba(255,255,255,0.5)',
+  boxShadow: '0 0 20px rgba(245, 40, 145, 0.8)',
   transition: '0.5s',
   backgroundSize: '200% auto',
 
