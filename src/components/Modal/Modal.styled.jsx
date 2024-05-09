@@ -86,7 +86,7 @@ const Input = styled.input`
   border-radius: 5px;
   outline: yellow;
   background-color: transparent;
-  border: 1px solid rgba(245, 40, 145, 0.8)
+  border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 10px;
   color: white;
   padding-left: 20px;
